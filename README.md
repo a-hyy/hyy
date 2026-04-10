@@ -1,2 +1,2 @@
 # hyy
-[mod 23.pdf]https://raw.githubusercontent.com/a-hyy/hyy/main/mod%2023.pdf
+[mod 23.pdf]https://github.com/a-hyy/hyy/raw/main/mod%2023.pdf
